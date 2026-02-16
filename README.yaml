@@ -1,1 +1,2 @@
-msg : this msg coming from github.
+msg : Spring Cloud Config is a centralized configuration management tool for distributed systems.
+spring-cloud-config : A centralized configuration server for Spring Boot microservices.
